@@ -40,9 +40,9 @@
    ```bash
    python app.py
    ```
-4. **Deploy on Vercel (Optional):**  
+4. **Link to Vercel:**  
    ```bash
-   vercel --prod
+   [vercel --prod](https://v0-ai-us-formulary-ey5461.vercel.app)
    ```
 
 ## Contribution
