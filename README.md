@@ -42,7 +42,7 @@
    ```
 4. **Link to Vercel:**  
    ```bash
-   [vercel --prod](https://v0-ai-us-formulary-ey5461.vercel.app)
+   https://v0-ai-us-formulary-ey5461.vercel.app
    ```
 
 ## Contribution
